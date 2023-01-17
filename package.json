@@ -1,0 +1,27 @@
+{
+  "name": "ts-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinxh/ts-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinxh/ts-hooks/issues"
+  },
+  "homepage": "https://github.com/kevinxh/ts-hooks#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "commerce-sdk-isomorphic": "^1.8.0",
+    "react": "^18.2.0",
+    "react-query": "^3.39.2"
+  }
+}
